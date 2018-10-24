@@ -2,11 +2,11 @@
 
 namespace HelloWorld
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        internal static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Goodbye World!");
         }
     }
 }
